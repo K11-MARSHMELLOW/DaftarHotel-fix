@@ -1,0 +1,141 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.azhar.wisatapurwakarta"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\User\AndroidStudioProjects\Afif\DaftarHotelFix\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Users\User\AndroidStudioProjects\Afif\DaftarHotelFix\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\User\AndroidStudioProjects\Afif\DaftarHotelFix\app\src\main\AndroidManifest.xml:48:5-67
+11-->C:\Users\User\AndroidStudioProjects\Afif\DaftarHotelFix\app\src\main\AndroidManifest.xml:48:22-64
+12    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+12-->C:\Users\User\AndroidStudioProjects\Afif\DaftarHotelFix\app\src\main\AndroidManifest.xml:49:5-81
+12-->C:\Users\User\AndroidStudioProjects\Afif\DaftarHotelFix\app\src\main\AndroidManifest.xml:49:22-78
+13    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+13-->C:\Users\User\AndroidStudioProjects\Afif\DaftarHotelFix\app\src\main\AndroidManifest.xml:51:5-79
+13-->C:\Users\User\AndroidStudioProjects\Afif\DaftarHotelFix\app\src\main\AndroidManifest.xml:51:22-76
+14
+15    <!-- Include required permissions for Google Maps API to run. -->
+16    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+16-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\a998b89aa33dba7d2af0bd1f1f02715b\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:5-79
+16-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\a998b89aa33dba7d2af0bd1f1f02715b\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:22-76
+17
+18    <uses-feature
+18-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\a998b89aa33dba7d2af0bd1f1f02715b\jetified-play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
+19        android:glEsVersion="0x00020000"
+19-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\a998b89aa33dba7d2af0bd1f1f02715b\jetified-play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
+20        android:required="true" />
+20-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\a998b89aa33dba7d2af0bd1f1f02715b\jetified-play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
+21
+22    <application
+22-->C:\Users\User\AndroidStudioProjects\Afif\DaftarHotelFix\app\src\main\AndroidManifest.xml:6:5-47:19
+23        android:allowBackup="true"
+23-->C:\Users\User\AndroidStudioProjects\Afif\DaftarHotelFix\app\src\main\AndroidManifest.xml:7:9-35
+24        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+24-->[androidx.core:core:1.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\73530a2d0c1df4b3085807c82555ce12\core-1.1.0\AndroidManifest.xml:24:18-86
+25        android:debuggable="true"
+26        android:icon="@drawable/hotelku"
+26-->C:\Users\User\AndroidStudioProjects\Afif\DaftarHotelFix\app\src\main\AndroidManifest.xml:8:9-41
+27        android:label="DaftarHotel.com"
+27-->C:\Users\User\AndroidStudioProjects\Afif\DaftarHotelFix\app\src\main\AndroidManifest.xml:9:9-40
+28        android:roundIcon="@drawable/hotelku"
+28-->C:\Users\User\AndroidStudioProjects\Afif\DaftarHotelFix\app\src\main\AndroidManifest.xml:10:9-46
+29        android:supportsRtl="true"
+29-->C:\Users\User\AndroidStudioProjects\Afif\DaftarHotelFix\app\src\main\AndroidManifest.xml:11:9-35
+30        android:testOnly="true"
+31        android:theme="@style/AppTheme"
+31-->C:\Users\User\AndroidStudioProjects\Afif\DaftarHotelFix\app\src\main\AndroidManifest.xml:12:9-40
+32        android:usesCleartextTraffic="true" >
+32-->C:\Users\User\AndroidStudioProjects\Afif\DaftarHotelFix\app\src\main\AndroidManifest.xml:13:9-44
+33        <activity android:name="com.azhar.wisatapurwakarta.DataHelper" />
+33-->C:\Users\User\AndroidStudioProjects\Afif\DaftarHotelFix\app\src\main\AndroidManifest.xml:14:9-15:45
+33-->C:\Users\User\AndroidStudioProjects\Afif\DaftarHotelFix\app\src\main\AndroidManifest.xml:14:19-45
+34        <activity android:name="com.azhar.wisatapurwakarta.activities.DetailHotelActivity" />
+34-->C:\Users\User\AndroidStudioProjects\Afif\DaftarHotelFix\app\src\main\AndroidManifest.xml:16:9-68
+34-->C:\Users\User\AndroidStudioProjects\Afif\DaftarHotelFix\app\src\main\AndroidManifest.xml:16:19-65
+35        <activity android:name="com.azhar.wisatapurwakarta.activities.HotelActivity" />
+35-->C:\Users\User\AndroidStudioProjects\Afif\DaftarHotelFix\app\src\main\AndroidManifest.xml:17:9-62
+35-->C:\Users\User\AndroidStudioProjects\Afif\DaftarHotelFix\app\src\main\AndroidManifest.xml:17:19-59
+36        <activity android:name="com.azhar.wisatapurwakarta.SplashScreen" >
+36-->C:\Users\User\AndroidStudioProjects\Afif\DaftarHotelFix\app\src\main\AndroidManifest.xml:18:9-24:20
+36-->C:\Users\User\AndroidStudioProjects\Afif\DaftarHotelFix\app\src\main\AndroidManifest.xml:18:19-47
+37            <intent-filter>
+37-->C:\Users\User\AndroidStudioProjects\Afif\DaftarHotelFix\app\src\main\AndroidManifest.xml:19:13-23:29
+38                <action android:name="android.intent.action.MAIN" />
+38-->C:\Users\User\AndroidStudioProjects\Afif\DaftarHotelFix\app\src\main\AndroidManifest.xml:20:17-69
+38-->C:\Users\User\AndroidStudioProjects\Afif\DaftarHotelFix\app\src\main\AndroidManifest.xml:20:25-66
+39
+40                <category android:name="android.intent.category.LAUNCHER" />
+40-->C:\Users\User\AndroidStudioProjects\Afif\DaftarHotelFix\app\src\main\AndroidManifest.xml:22:17-77
+40-->C:\Users\User\AndroidStudioProjects\Afif\DaftarHotelFix\app\src\main\AndroidManifest.xml:22:27-74
+41            </intent-filter>
+42        </activity>
+43        <activity
+43-->C:\Users\User\AndroidStudioProjects\Afif\DaftarHotelFix\app\src\main\AndroidManifest.xml:25:9-26:42
+44            android:name="com.azhar.wisatapurwakarta.AddActivity"
+44-->C:\Users\User\AndroidStudioProjects\Afif\DaftarHotelFix\app\src\main\AndroidManifest.xml:25:19-46
+45            android:label="Tambah Data" />
+45-->C:\Users\User\AndroidStudioProjects\Afif\DaftarHotelFix\app\src\main\AndroidManifest.xml:26:13-40
+46        <activity
+46-->C:\Users\User\AndroidStudioProjects\Afif\DaftarHotelFix\app\src\main\AndroidManifest.xml:27:9-29:41
+47            android:name="com.azhar.wisatapurwakarta.EditActivity"
+47-->C:\Users\User\AndroidStudioProjects\Afif\DaftarHotelFix\app\src\main\AndroidManifest.xml:28:13-41
+48            android:label="Edit Data" />
+48-->C:\Users\User\AndroidStudioProjects\Afif\DaftarHotelFix\app\src\main\AndroidManifest.xml:29:13-38
+49        <activity android:name="com.azhar.wisatapurwakarta.activities.MainActivity" />
+49-->C:\Users\User\AndroidStudioProjects\Afif\DaftarHotelFix\app\src\main\AndroidManifest.xml:30:9-61
+49-->C:\Users\User\AndroidStudioProjects\Afif\DaftarHotelFix\app\src\main\AndroidManifest.xml:30:19-58
+50        <activity
+50-->C:\Users\User\AndroidStudioProjects\Afif\DaftarHotelFix\app\src\main\AndroidManifest.xml:31:9-39:20
+51            android:name="com.azhar.wisatapurwakarta.MainActivity"
+51-->C:\Users\User\AndroidStudioProjects\Afif\DaftarHotelFix\app\src\main\AndroidManifest.xml:32:13-41
+52            android:theme="@style/AppTheme.NoActionBar" >
+52-->C:\Users\User\AndroidStudioProjects\Afif\DaftarHotelFix\app\src\main\AndroidManifest.xml:33:13-56
+53            <intent-filter>
+53-->C:\Users\User\AndroidStudioProjects\Afif\DaftarHotelFix\app\src\main\AndroidManifest.xml:19:13-23:29
+54                <action android:name="android.intent.action.MAIN" />
+54-->C:\Users\User\AndroidStudioProjects\Afif\DaftarHotelFix\app\src\main\AndroidManifest.xml:20:17-69
+54-->C:\Users\User\AndroidStudioProjects\Afif\DaftarHotelFix\app\src\main\AndroidManifest.xml:20:25-66
+55
+56                <category android:name="android.intent.category.LAUNCHER" />
+56-->C:\Users\User\AndroidStudioProjects\Afif\DaftarHotelFix\app\src\main\AndroidManifest.xml:22:17-77
+56-->C:\Users\User\AndroidStudioProjects\Afif\DaftarHotelFix\app\src\main\AndroidManifest.xml:22:27-74
+57            </intent-filter>
+58        </activity>
+59
+60        <meta-data
+60-->C:\Users\User\AndroidStudioProjects\Afif\DaftarHotelFix\app\src\main\AndroidManifest.xml:41:9-43:69
+61            android:name="com.google.android.gms.version"
+61-->C:\Users\User\AndroidStudioProjects\Afif\DaftarHotelFix\app\src\main\AndroidManifest.xml:42:13-58
+62            android:value="@integer/google_play_services_version" />
+62-->C:\Users\User\AndroidStudioProjects\Afif\DaftarHotelFix\app\src\main\AndroidManifest.xml:43:13-66
+63        <meta-data
+63-->C:\Users\User\AndroidStudioProjects\Afif\DaftarHotelFix\app\src\main\AndroidManifest.xml:44:9-46:51
+64            android:name="com.google.android.geo.API_KEY"
+64-->C:\Users\User\AndroidStudioProjects\Afif\DaftarHotelFix\app\src\main\AndroidManifest.xml:45:13-58
+65            android:value="Google Maps API KEY" />
+65-->C:\Users\User\AndroidStudioProjects\Afif\DaftarHotelFix\app\src\main\AndroidManifest.xml:46:13-48
+66        <!-- Needs to be explicitly declared on P+ -->
+67        <uses-library
+67-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\a998b89aa33dba7d2af0bd1f1f02715b\jetified-play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+68            android:name="org.apache.http.legacy"
+68-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\a998b89aa33dba7d2af0bd1f1f02715b\jetified-play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
+69            android:required="false" />
+69-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\a998b89aa33dba7d2af0bd1f1f02715b\jetified-play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
+70
+71        <activity
+71-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\4858ba8f6e273fdf2dcb9d88023c9534\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+72            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+72-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\4858ba8f6e273fdf2dcb9d88023c9534\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+73            android:exported="false"
+73-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\4858ba8f6e273fdf2dcb9d88023c9534\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+74            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+74-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\4858ba8f6e273fdf2dcb9d88023c9534\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+75    </application>
+76
+77</manifest>

@@ -1,0 +1,278 @@
+[
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_cafe.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_cafe.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_dtl_wisata.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\src\\main\\res\\drawable-xhdpi\\ic_dtl_wisata.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_data.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\src\\main\\res\\layout\\view_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_komunitas.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_komunitas.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hotelx.webp.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\src\\main\\res\\drawable\\hotelx.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_dtl_desc.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\src\\main\\res\\drawable-xhdpi\\ic_dtl_desc.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_dtl_phone.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\src\\main\\res\\drawable-xhdpi\\ic_dtl_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_data_helper.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\src\\main\\res\\layout\\activity_data_helper.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_banner.jpg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_banner.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_dtl_hotel.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\src\\main\\res\\drawable-xhdpi\\ic_dtl_hotel.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_stand_up.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\src\\main\\res\\drawable\\ic_stand_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_list_hotel.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\src\\main\\res\\layout\\item_list_hotel.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_detail_hotel.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\src\\main\\res\\layout\\activity_detail_hotel.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_name.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\src\\main\\res\\drawable-hdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bell.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\src\\main\\res\\drawable\\bell.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_save.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\src\\main\\res\\drawable\\ic_save.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_action_name.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bell1.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\src\\main\\res\\drawable\\bell1.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_data.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\src\\main\\res\\layout\\row_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_hotel.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_hotel.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_main.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_edit.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\src\\main\\res\\layout\\activity_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_circle_white.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\src\\main\\res\\drawable\\ic_circle_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_arrow.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\src\\main\\res\\drawable-xhdpi\\ic_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_dtl_loc.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\src\\main\\res\\drawable-xhdpi\\ic_dtl_loc.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_main.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\build\\intermediates\\res\\merged\\debug\\menu_add_menu.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\src\\main\\res\\menu\\add_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_delete.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\src\\main\\res\\drawable\\ic_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hotelku.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\src\\main\\res\\drawable\\hotelku.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_grid_main.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\src\\main\\res\\layout\\item_grid_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_dtl_kuliner.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\src\\main\\res\\drawable-xhdpi\\ic_dtl_kuliner.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_action_name.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\src\\main\\res\\drawable\\ic_action_name.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_circle_radius_primary.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\src\\main\\res\\drawable\\bg_circle_radius_primary.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_destination.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_destination.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\src\\main\\res\\layout\\activity_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_name.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\src\\main\\res\\drawable-mdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_stand_up.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\src\\main\\res\\drawable-hdpi\\ic_stand_up.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_dtl_time.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\src\\main\\res\\drawable-xhdpi\\ic_dtl_time.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\build\\intermediates\\res\\merged\\debug\\menu_edit_menu.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\src\\main\\res\\menu\\edit_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\build\\intermediates\\res\\merged\\debug\\layout_header_main.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\src\\main\\res\\layout\\header_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hotel.jpg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\src\\main\\res\\drawable\\hotel.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\src\\main\\res\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_hotel.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\src\\main\\res\\layout\\activity_hotel.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_rute_angkot.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_rute_angkot.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_categories.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\src\\main\\res\\drawable-xhdpi\\ic_categories.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_tour.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_tour.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_name.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_pray_place.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Afif\\DaftarHotelFix\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_pray_place.png"
+    }
+]

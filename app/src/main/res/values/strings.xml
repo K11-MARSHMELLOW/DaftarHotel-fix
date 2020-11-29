@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Wisata Purwakarta</string>
+    <string name="alarm_off">Alarm Off</string>
+    <string name="alarm_on">Alarm On</string>
+    <string name="Stand_Up_Alarm_On">Stand Up Alarm On!</string>
+    <string name="Stand_Up_Alarm_Off">Stand Up Alarm Off!</string>
+    <string name="Stand_Up_Alert">Stand Up Alert</string>
+    <string name="you_should">You should stand up and walk around now!</string>
+
+    <string name="action_settings">Settings</string>
+    <string-array name="jenis_kelamin">
+        <item>Laki-laki</item>
+        <item>Perempuan</item>
+    </string-array>
+</resources>
